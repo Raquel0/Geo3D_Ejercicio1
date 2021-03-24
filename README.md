@@ -1,4 +1,4 @@
-"# Geo3D_Ejercicio1" 
+Geo3D_Ejercicio1
 
 Raquel Geijo Fernández
 
